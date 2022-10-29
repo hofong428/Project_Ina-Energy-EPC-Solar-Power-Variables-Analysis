@@ -1,5 +1,5 @@
 # Project_Taiwan-Ina-Energy-solar-stations-power-supply-variables-analysis
-Analysis of solar irridiance, temprature, atmosphere, humidity and Power correlation 
+Analysis of solar irridiance, temprature, atmosphere, humidity and Power correlations 
 ## EPC solar stations data analytics
 EPC in the solar industry means engineering, procurement, and construction. It is a term that is widely used by companies that provide end-to-end solar energy services, including designing the system, giving procurement details about the system, and installing it. After delivering the functional solar system to you, solar EPC companies continue to perform regular checks and continuous maintenance to ensure your solar system works at optimum efficiency.
 
